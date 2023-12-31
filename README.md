@@ -2,8 +2,8 @@
 TAMIYAの楽しい工作シリーズやミニ四駆などで使わえるホイールとLEGOテクニックのAxleを組み付けられるジョイントパーツです。
 
 ## 現在対応している部品
-- [No.70096 楽しい工作シリーズ（パーツ） No.96オフロードタイヤセット](https://www.tamiya.com/japan/products/70096/index.html)
-- [No.15239 ミニ四駆グレードアップパーツ No.239 中空ゴム小径タイヤ(ホイール付)](https://www.tamiya.com/japan/products/15239/index.html)
+- [ItemNo.70096 楽しい工作シリーズ（パーツ） No.96オフロードタイヤセット](https://www.tamiya.com/japan/products/70096/index.html)
+- [ItemNo.15239 ミニ四駆グレードアップパーツ No.239 中空ゴム小径タイヤ(ホイール付)](https://www.tamiya.com/japan/products/15239/index.html)
 
 
 ## 使用例
