@@ -1,0 +1,2 @@
+# TAMIYAWheel_LEGOAxle_Joints
+TAMIYAの楽しい工作シリーズやミニ四駆などで使わえるホイールとLEGOテクニックのAxleを組み付けられるジョイントパーツです。
